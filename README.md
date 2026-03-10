@@ -23,7 +23,7 @@ This project focuses on key promotional performance metrics such as Incremental 
 These metrics help measure the real impact of promotional campaigns on business performance.
 
 ### 📊 Dashboard Pages
-1️. Campaign Performance Overview
+1️. Sales Performance
 
 The overview page provides a high-level view of promotional campaign performance.
 
@@ -85,26 +85,26 @@ Data Modeling – Relationships between campaign, product, and store data
 
 ## 📷 Dashboard Preview
 
-### Campaign Performance Overview
+### Sales Performance 
 
 
-<img width="1436" height="800" alt="Screenshot 2026-03-10 123013" src="https://github.com/user-attachments/assets/cc0494b2-23de-412a-aea1-58b5935c595c" />
+<img width="1523" height="851" alt="Screenshot 2026-03-10 203740" src="https://github.com/user-attachments/assets/b6e1ac77-af1f-40d9-89bf-5c89f77a5e8c" />
+
 
 
 ### Store Performance Analysis
 
-<img width="1432" height="797" alt="Screenshot 2026-03-10 122556" src="https://github.com/user-attachments/assets/d46915f9-52fb-4b59-b2bb-4953c0d3769a" />
+<img width="1526" height="848" alt="Screenshot 2026-03-10 203806" src="https://github.com/user-attachments/assets/87990fc0-ec6b-4731-9020-c0f4141032fa" />
 
 
 ### Promotion Type Analysis
 
-<img width="1422" height="786" alt="Screenshot 2026-03-10 122613" src="https://github.com/user-attachments/assets/d67a4434-72a8-4740-8268-a5ba9cc6ff8a" />
-
+<img width="1524" height="838" alt="Screenshot 2026-03-10 203826" src="https://github.com/user-attachments/assets/912c4aad-7fa0-4db2-a4f9-09d8aa6b73fd" />
 
 
 ### Product & Category Analysis
 
-<img width="1414" height="787" alt="Screenshot 2026-03-10 122630" src="https://github.com/user-attachments/assets/55ea60ff-6122-44e3-a264-be4b914f6ac2" />
+<img width="1510" height="848" alt="Screenshot 2026-03-10 203907" src="https://github.com/user-attachments/assets/20a70a2b-9a41-43eb-bfa9-6a2f9cab1c35" />
 
 
 - 👤 Author
