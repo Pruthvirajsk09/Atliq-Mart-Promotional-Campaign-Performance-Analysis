@@ -1,6 +1,6 @@
 # Atliq-Mart-Promotional-Campaign-Performance-Analysis
 
-# ANALYSIS-OF-ATLIQ-MART-S-PROMOTIONAL-CAMPAIGNS
+
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM5ZDJiYTAtN2U0NC00OWFjLTljOWItM2I3NDJlNGY1NDIxIiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
 
 # 📊 AtliQ Mart Promotional Campaign Analysis
